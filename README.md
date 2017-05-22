@@ -1,2 +1,2 @@
 # INF2810prep
-Oppgaver fra pensum, tidligere eksamen
+Oppgaver fra pensum, tidligere eksamener
